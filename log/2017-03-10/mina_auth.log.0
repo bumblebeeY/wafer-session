@@ -1,0 +1,6 @@
+INFO|2017-03-10 16:53:46.568150|/opt/lampp/htdocs/mina_auth/system/parse_request.php:26|
+INFO|2017-03-10 16:53:46.568417|/opt/lampp/htdocs/mina_auth/system/parse_request.php:108|{"returnCode":1002,"returnMessage":"NO_INTERFACENAME_PARA","returnData":"","version":1,"componentName":"MA"}
+INFO|2017-03-10 16:53:46.568594|/opt/lampp/htdocs/mina_auth/index.php:13|{"returnCode":1002,"returnMessage":"NO_INTERFACENAME_PARA","returnData":"","version":1,"componentName":"MA"}
+INFO|2017-03-10 16:53:56.118170|/opt/lampp/htdocs/mina_auth/system/parse_request.php:26|
+INFO|2017-03-10 16:53:56.118387|/opt/lampp/htdocs/mina_auth/system/parse_request.php:108|{"returnCode":1002,"returnMessage":"NO_INTERFACENAME_PARA","returnData":"","version":1,"componentName":"MA"}
+INFO|2017-03-10 16:53:56.118566|/opt/lampp/htdocs/mina_auth/index.php:13|{"returnCode":1002,"returnMessage":"NO_INTERFACENAME_PARA","returnData":"","version":1,"componentName":"MA"}
